@@ -1,0 +1,6 @@
+rida,123,admin
+hassan,234,customer
+,,
+saba,567,admin
+saba,456,admin
+saba,678,admin

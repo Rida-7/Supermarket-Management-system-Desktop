@@ -1,0 +1,5 @@
+grocery,egg,40,30
+electronics,tv,4,20000
+grocery,meat,5,1200
+electronics,laptop,5,600000
+bateryItem,cookies,6,35
